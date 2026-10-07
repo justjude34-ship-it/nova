@@ -1,2 +1,5 @@
-# nova
-Nova — ADHD companion (private, on-device; not medical care)
+# Nova — ADHD companion
+
+Private, on-device ADHD companion PWA. Not medical care.
+
+Live: https://justjude34-ship-it.github.io/nova/

@@ -1,0 +1,13 @@
+{
+  "name": "Nova — ADHD companion",
+  "short_name": "Nova",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "en-AU",
+  "description": "Private on-device ADHD companion. Not medical care.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
